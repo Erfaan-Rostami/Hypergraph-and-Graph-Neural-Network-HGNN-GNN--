@@ -3,7 +3,8 @@ Many underlying relationships among data in several areas of science and enginee
 - paper: <a href="https://arxiv.org/pdf/1806.01261.pdf" > Relational inductive biases, deep learning, and graph networks </a>
 - paper: <a href="https://arxiv.org/pdf/1812.08434.pdf" > Graph Neural Networks: A Review of Methods and Applications </a>
 - paper: 
-- Links:
+___________________________________________________________________________________________________________________
+## Links:
 
      https://persagen.com/files/misc/scarselli2009graph.pdf
      
