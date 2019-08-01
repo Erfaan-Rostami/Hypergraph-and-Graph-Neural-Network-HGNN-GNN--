@@ -7,6 +7,6 @@ Many underlying relationships among data in several areas of science and enginee
 - https://persagen.com/files/misc/scarselli2009graph.pdf
 - Must-read papers on GNN: https://github.com/thunlp/GNNPapers
 
-# Graph Convolutional Networks
+# Graph Convolutional Networks (GCN)
 - <a href="http://tkipf.github.io/graph-convolutional-networks/" > Graph Convolutional Networks </a> by Thomas Kipf
 - paper: <a href="https://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf" > Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search </a>
