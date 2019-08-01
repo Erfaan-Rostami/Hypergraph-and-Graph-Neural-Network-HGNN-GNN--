@@ -8,3 +8,4 @@ Many underlying relationships among data in several areas of science and enginee
      https://github.com/thunlp/GNNPapers
 
 # Graph Convolutional Networks:
+- <a href="http://tkipf.github.io/graph-convolutional-networks/" > Graph Covolutional Networks </a>
