@@ -6,3 +6,5 @@ Many underlying relationships among data in several areas of science and enginee
      
      Must-read papers on GNN:
      https://github.com/thunlp/GNNPapers
+
+# Graph Convolutional Networks:
