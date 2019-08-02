@@ -10,3 +10,5 @@ Many underlying relationships among data in several areas of science and enginee
 # Graph Convolutional Networks (GCN)
 - <a href="http://tkipf.github.io/graph-convolutional-networks/" > Graph Convolutional Networks </a> by Thomas Kipf
 - paper: <a href="https://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf" > Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search </a>
+## Links:
+- <a href="https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780" > How to do Deep Learning on Graphs with Graph Convolutional Networks </a>
