@@ -5,7 +5,7 @@ Many underlying relationships among data in several areas of science and enginee
 - paper: <a href="https://arxiv.org/pdf/1906.04214.pdf" > Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective </a>
 - paper: <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.554.4395&rep=rep1&type=pdf"> A Comparison between Recursive Neural Networks and Graph Neural Networks </a>
 - paper: <a href="https://arxiv.org/pdf/1312.6203.pdf">Spectral Networks and Deep Locally Connected Networks on Graphs</a>
-
+- paper: <a href="https://arxiv.org/pdf/0912.3848.pdf">Wavelets on Graphs via Spectral Graph Theory</a>
 ## Links:
 - https://persagen.com/files/misc/scarselli2009graph.pdf
 - Must-read papers on GNN: https://github.com/thunlp/GNNPapers
