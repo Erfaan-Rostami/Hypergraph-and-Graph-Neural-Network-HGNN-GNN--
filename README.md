@@ -19,4 +19,4 @@ Many underlying relationships among data in several areas of science and enginee
 ## Links:
 - <a href="https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780" > How to do Deep Learning on Graphs with Graph Convolutional Networks </a> by Tobias Skovgaard Jepsen
 ## Slides:
-&hearts; Graph Neural Networks - SNAP: Stanford
+&hearts; <a href="http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part2-gnns.pdf">Graph Neural Networks - SNAP: Stanford</a>
