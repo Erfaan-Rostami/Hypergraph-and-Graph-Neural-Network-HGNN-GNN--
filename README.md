@@ -10,12 +10,8 @@ Many underlying relationships among data in several areas of science and enginee
 - https://persagen.com/files/misc/scarselli2009graph.pdf
 - Must-read papers on GNN: https://github.com/thunlp/GNNPapers
 - A Gentle Introduction to <a href="https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3">Graph Neural Networks</a> (Basics, DeepWalk, and GraphSage), by Steeve Huang
-- <a href="https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d">Tutorial on Graph Neural Networks for Computer Vision and Beyond </a>(Part1), by Boris Knyazev
-- Graph Neural Network - <a href="https://paperswithcode.com/task/graph-neural-network">Papers With Code</a>
-
-&star;
-
-
+&star; <a href="https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d">Tutorial on Graph Neural Networks for Computer Vision and Beyond </a>(Part1), by Boris Knyazev
+&star; Graph Neural Network - <a href="https://paperswithcode.com/task/graph-neural-network">Papers With Code</a>
 
 # Graph Convolutional Networks (GCN)
 - <a href="http://tkipf.github.io/graph-convolutional-networks/" > Graph Convolutional Networks </a> by Thomas Kipf
