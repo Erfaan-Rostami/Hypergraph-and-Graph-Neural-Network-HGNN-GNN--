@@ -7,10 +7,14 @@ Many underlying relationships among data in several areas of science and enginee
 - paper: <a href="https://arxiv.org/pdf/1312.6203.pdf">Spectral Networks and Deep Locally Connected Networks on Graphs</a>
 - paper: <a href="https://arxiv.org/pdf/0912.3848.pdf">Wavelets on Graphs via Spectral Graph Theory</a>
 ## Links:
-- https://persagen.com/files/misc/scarselli2009graph.pdf
-- Must-read papers on GNN: https://github.com/thunlp/GNNPapers
-- A Gentle Introduction to <a href="https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3">Graph Neural Networks</a> (Basics, DeepWalk, and GraphSage), by Steeve Huang
+&star; https://persagen.com/files/misc/scarselli2009graph.pdf
+
+&star; Must-read papers on GNN: https://github.com/thunlp/GNNPapers
+
+&star; A Gentle Introduction to <a href="https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3">Graph Neural Networks</a> (Basics, DeepWalk, and GraphSage), by Steeve Huang
+
 &star; <a href="https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d">Tutorial on Graph Neural Networks for Computer Vision and Beyond </a>(Part1), by Boris Knyazev
+
 &star; Graph Neural Network - <a href="https://paperswithcode.com/task/graph-neural-network">Papers With Code</a>
 
 # Graph Convolutional Networks (GCN)
