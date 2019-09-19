@@ -13,6 +13,8 @@ Many underlying relationships among data in several areas of science and enginee
 - <a href="https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d">Tutorial on Graph Neural Networks for Computer Vision and Beyond </a>(Part1), by Boris Knyazev
 - Graph Neural Network - <a href="https://paperswithcode.com/task/graph-neural-network">Papers With Code</a>
 
+&stars;
+
 
 
 # Graph Convolutional Networks (GCN)
