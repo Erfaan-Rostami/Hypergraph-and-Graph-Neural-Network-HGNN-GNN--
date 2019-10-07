@@ -25,3 +25,4 @@ Many underlying relationships among data in several areas of science and enginee
 ## Slides:
 &hearts; <a href="http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part2-gnns.pdf">Graph Neural Networks - SNAP: Stanford</a>
 ## Deep Graph Library
+Deep Graph Library (DGL) is a Python package built for easy implementation of graph neural network model family, on top of existing DL frameworks (e.g. PyTorch, MXNet, Gluon etc.).
