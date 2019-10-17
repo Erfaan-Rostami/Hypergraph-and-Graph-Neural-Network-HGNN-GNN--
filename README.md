@@ -22,7 +22,7 @@ Many underlying relationships among data in several areas of science and enginee
 
 &#9749; paper: <a href="https://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf" > Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search </a>
 
-&#9749; paper: <a href="">Bayesian graph convolutional neural networks for semi-supervised classification</a>
+&#9749; paper: <a href="https://arxiv.org/pdf/1811.11103v1.pdf">Bayesian graph convolutional neural networks for semi-supervised classification</a>
 
 &rarr; <a href="https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807">Can we do better than Convolutional Neural Networks?</a>, by Boris Knyazev
 ## Links:
