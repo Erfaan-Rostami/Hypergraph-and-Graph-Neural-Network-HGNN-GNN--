@@ -6,7 +6,7 @@ Many underlying relationships among data in several areas of science and enginee
 - paper: <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.554.4395&rep=rep1&type=pdf"> A Comparison between Recursive Neural Networks and Graph Neural Networks </a>
 - paper: <a href="https://arxiv.org/pdf/1312.6203.pdf">Spectral Networks and Deep Locally Connected Networks on Graphs</a>
 - paper: <a href="https://arxiv.org/pdf/0912.3848.pdf">Wavelets on Graphs via Spectral Graph Theory</a>
-- paper: <a href=""></a>
+- paper: <a href="">A Comprehensive Survey on Graph Neural Networks</a>
 ## Links:
 &star; https://persagen.com/files/misc/scarselli2009graph.pdf
 
