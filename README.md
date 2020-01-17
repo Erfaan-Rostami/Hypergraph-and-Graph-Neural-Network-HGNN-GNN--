@@ -18,6 +18,8 @@ Many underlying relationships among data in several areas of science and enginee
 
 &star; Graph Neural Network - <a href="https://paperswithcode.com/task/graph-neural-network">Papers With Code</a>
 
+&star; <a href=""></a>
+
 # Graph Convolutional Networks (GCN)
 - <a href="http://tkipf.github.io/graph-convolutional-networks/" > Graph Convolutional Networks </a> by Thomas Kipf
 
