@@ -37,3 +37,4 @@ Many underlying relationships among data in several areas of science and enginee
 ## Deep Graph Library and Codes
 - <a href="https://www.dgl.ai/">Deep Graph Library</a> (DGL) is a Python package built for easy implementation of graph neural network model family, on top of existing DL frameworks (e.g. PyTorch, MXNet, Gluon etc.).
 - <a href="https://github.com/deepmind/graph_nets/blob/master/docs/graph_nets.md">graph_nets - module reference</a>
+## Courses from other universities
