@@ -39,7 +39,7 @@ Many underlying relationships among data in several areas of science and enginee
 - <a href="https://github.com/deepmind/graph_nets/blob/master/docs/graph_nets.md">graph_nets - module reference</a>
 
 &diams; <font face="Tahoma, Geneva, sans-serif">
-این متن جهت آزمایش نحوه تعریف فونت در HTML است!
+cooper black
 </font>
 ## Courses from other universities
 &#9749; <a href="http://web.stanford.edu/class/cs224w/">Machine Learning with Graphs</a>, (Stanford / Fall 2019)
