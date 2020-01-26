@@ -31,7 +31,7 @@ Many underlying relationships among data in several areas of science and enginee
 
 &#9749; paper: <a href="https://arxiv.org/pdf/1811.11103v1.pdf">Bayesian graph convolutional neural networks for semi-supervised classification</a>
 
-&#9749; paper: <a href="">A deep convolutional neural network for classification of red blood cells in sickle cell
+&#9749; paper: <a href="https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005746&type=printable">A deep convolutional neural network for classification of red blood cells in sickle cell
 anemia</a>
 ## Links:
 - <a href="https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780" > How to do Deep Learning on Graphs with Graph Convolutional Networks </a> by Tobias Skovgaard Jepsen
