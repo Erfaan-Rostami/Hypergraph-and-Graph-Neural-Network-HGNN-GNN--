@@ -40,7 +40,7 @@ anemia</a>
 ## Deep Graph Library and Codes
 - <a href="https://www.dgl.ai/">Deep Graph Library</a> (DGL) is a Python package built for easy implementation of graph neural network model family, on top of existing DL frameworks (e.g. PyTorch, MXNet, Gluon etc.).
 - <a href="https://github.com/deepmind/graph_nets/blob/master/docs/graph_nets.md">graph_nets - module reference</a>
-- A collection of various<a href="https://github.com/rasbt/deeplearning-models">deep learning models</a> for TensorFlow and PyTorch in Jupyter Notebooks.
+- A collection of various <a href="https://github.com/rasbt/deeplearning-models">deep learning models</a> for TensorFlow and PyTorch in Jupyter Notebooks.
 - A tutorial on graph neural network with <a href="https://colab.research.google.com/drive/1DIQm9rOx2mT1bZETEeVUThxcrP1RKqAn#scrollTo=1gBxcjRDEliK">CODE</a>
 ## Courses from other universities
 &#9749; <a href="http://web.stanford.edu/class/cs224w/">Machine Learning with Graphs</a>, (Stanford / Fall 2019)
