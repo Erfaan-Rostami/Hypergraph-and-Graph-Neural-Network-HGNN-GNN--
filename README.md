@@ -44,3 +44,5 @@ anemia</a>
 - A tutorial on graph neural network with <a href="https://colab.research.google.com/drive/1DIQm9rOx2mT1bZETEeVUThxcrP1RKqAn#scrollTo=1gBxcjRDEliK">CODE</a>
 ## Courses from other universities
 &#9749; <a href="http://web.stanford.edu/class/cs224w/">Machine Learning with Graphs</a>, (Stanford / Fall 2019)
+## Graph Datasets
+
