@@ -9,6 +9,7 @@ Many underlying relationships among data in several areas of science and enginee
 - paper: <a href="https://arxiv.org/pdf/1901.00596.pdf">A Comprehensive Survey on Graph Neural Networks</a>
 - paper: <a href="https://arxiv.org/pdf/1611.07308.pdf">Variational Graph Auto-Encoders</a>
 - paper: <a href="https://arxiv.org/pdf/1910.07643.pdf">Tensor Graph Convolutional Networks for Prediction on Dynamic Graphs</a>
+- paper: <a href=""></a>
 ## Links:
 &star; https://persagen.com/files/misc/scarselli2009graph.pdf
 
