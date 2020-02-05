@@ -49,6 +49,7 @@ anemia</a>
 &#9749; <a href="http://web.stanford.edu/class/cs224w/">Machine Learning with Graphs</a>, (Stanford / Fall 2019)
 ## Graph Datasets
 &diams; A Repository of Benchmark <a href="https://github.com/shiruipan/graph_datasets">Graph Datasets</a> for Graph Classification
+&diams; 
 
 &diams; <a href="http://networkrepository.com/">Network Repository</a>. A Scientific Network Data Repository with
 Interactive Visualization and Mining Tools
