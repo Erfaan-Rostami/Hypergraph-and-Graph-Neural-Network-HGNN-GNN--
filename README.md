@@ -45,7 +45,7 @@ anemia</a>
 - A collection of various <a href="https://github.com/rasbt/deeplearning-models">deep learning models</a> for TensorFlow and PyTorch in Jupyter Notebooks.
 - A tutorial on graph neural network with <a href="https://colab.research.google.com/drive/1DIQm9rOx2mT1bZETEeVUThxcrP1RKqAn#scrollTo=1gBxcjRDEliK">CODE</a>
 - Hands-on Graph Neural Networks with PyTorch & <a href="https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8">PyTorch Geometric</a>
-- <a href="">Sage Reference Manual: Graph Theory</a> (The Sage Development Team)
+- <a href="http://doc.sagemath.org/pdf/en/reference/graphs/graphs.pdf">Sage Reference Manual: Graph Theory</a> (The Sage Development Team)
 ## Courses from other universities
 &#9749; <a href="http://web.stanford.edu/class/cs224w/">Machine Learning with Graphs</a>, (Stanford / Fall 2019)
 ## Graph Datasets
