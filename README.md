@@ -27,9 +27,9 @@ Many underlying relationships among data in several areas of science and enginee
 &star; <a href="https://pdfs.semanticscholar.org/cc5e/9f8dfdd1d92da4bb8a919d101e3d742f5d5f.pdf">Connection and separation in hypergraphs</a>, Theory and Applications of Graphs
 
 # Graph Convolutional Networks (GCN)
-- <a href="http://tkipf.github.io/graph-convolutional-networks/" > Graph Convolutional Networks </a> by Thomas Kipf
+&#9749 <a href="http://tkipf.github.io/graph-convolutional-networks/" > Graph Convolutional Networks </a> by Thomas Kipf
 
-&rarr; <a href="https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807">Can we do better than Convolutional Neural Networks?</a>, by Boris Knyazev
+&#9749; <a href="https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807">Can we do better than Convolutional Neural Networks?</a>, by Boris Knyazev
 
 &#9749; paper: <a href="https://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf" > Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search </a>
 
