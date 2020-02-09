@@ -24,6 +24,8 @@ Many underlying relationships among data in several areas of science and enginee
 
 &star; <a href="https://towardsdatascience.com/tutorial-on-variational-graph-auto-encoders-da9333281129">Tutorial on Variational Graph Auto-Encoders</a>
 
+&star; <a href="">Connection and separation in hypergraphs</a>
+
 # Graph Convolutional Networks (GCN)
 - <a href="http://tkipf.github.io/graph-convolutional-networks/" > Graph Convolutional Networks </a> by Thomas Kipf
 
