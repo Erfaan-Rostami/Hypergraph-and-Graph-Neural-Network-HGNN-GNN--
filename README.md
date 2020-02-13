@@ -11,7 +11,7 @@ Many underlying relationships among data in several areas of science and enginee
 - paper: <a href="https://arxiv.org/pdf/1910.07643.pdf">Tensor Graph Convolutional Networks for Prediction on Dynamic Graphs</a>
 - paper: <a href="https://arxiv.org/pdf/1910.04499.pdf">An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual Information</a>
 - paper: <a href="https://arxiv.org/pdf/1809.09401.pdf">Hypergraph Neural Networks</a>
-- paper: 
+- paper: <a href=""></a>
 ## Links:
 &star; https://persagen.com/files/misc/scarselli2009graph.pdf
 
