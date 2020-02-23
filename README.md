@@ -56,11 +56,11 @@ anemia</a>
 &diams; A Repository of Benchmark <a href="https://github.com/shiruipan/graph_datasets">Graph Datasets</a> for Graph Classification
 
 &diams; <a href="http://networkrepository.com/">Network Repository</a>. A Scientific Network Data Repository with
-Interactive Visualization and Mining Tools
-
-&diams; 
+Interactive Visualization and Mining Tools 
 
 &diams; <a href="https://github.com/benedekrozemberczki/SimGNN">SimGNN</a>
+
+&diams; <a href="https://hog.grinvin.org/"></a>
 ## Graph Generators
 - All graphs in Sage can be built through <a href="http://doc.sagemath.org/html/en/reference/graphs/sage/graphs/graph_generators.html">Common Graphs</a>.
 ## Graph Representation Learning
