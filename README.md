@@ -13,7 +13,7 @@ Many underlying relationships among data in several areas of science and enginee
 - paper: <a href="https://arxiv.org/pdf/1809.09401.pdf">Hypergraph Neural Networks</a>
 - paper: <a href="https://arxiv.org/pdf/1901.08150.pdf">Hypergraph Convolution and Hypergraph Attention</a>
 
-## Links:
+## Useful Links for GNN and HGNN:
 &star; https://persagen.com/files/misc/scarselli2009graph.pdf
 
 &star; Must-read papers on GNN: https://github.com/thunlp/GNNPapers
