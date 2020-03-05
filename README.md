@@ -70,7 +70,7 @@ Interactive Visualization and Mining Tools
 ## Applications
 * **Solving NP-Hard and NP-Complete Problems in Combinatorics**
    - A Graph Neural Network for Decision TSP (Traveling Salesperson Problem)
-   - 
+   - classic NP-hard problems, such as Satisfiability, Travelling Salesman, Knapsack, Minimum Vertex Cover, and Maximum Cut
 
 
 
