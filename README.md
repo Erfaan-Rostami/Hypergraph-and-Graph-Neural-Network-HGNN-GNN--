@@ -68,6 +68,7 @@ Interactive Visualization and Mining Tools
 
 ## Graph Representation Learning
 ## Applications
+- Solving NP-Complete Problems in Combinatorics
 
 
 
