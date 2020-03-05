@@ -68,7 +68,7 @@ Interactive Visualization and Mining Tools
 
 ## Graph Representation Learning
 ## Applications
-* **Solving NP-Complete Problems in Combinatorics**
+* **Solving NP-Hard and NP-Complete Problems in Combinatorics**
    - A Graph Neural Network for Decision TSP (Traveling Salesperson Problem)
    - 
 
