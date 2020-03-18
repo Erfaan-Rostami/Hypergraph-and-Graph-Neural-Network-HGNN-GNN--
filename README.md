@@ -53,6 +53,8 @@ anemia</a>
 - <a href="http://doc.sagemath.org/pdf/en/reference/graphs/graphs.pdf">Sage Reference Manual: Graph Theory</a> (The Sage Development Team)
 ## Courses from other universities
 &#9749; <a href="http://web.stanford.edu/class/cs224w/">Machine Learning with Graphs</a>, (Stanford / Fall 2019)
+
+&#9749;
 ## Graph Datasets
 &diams; A Repository of Benchmark <a href="https://github.com/shiruipan/graph_datasets">Graph Datasets</a> for Graph Classification
 
