@@ -19,7 +19,7 @@ Many underlying relationships among data in several areas of science and enginee
 
 &star; https://persagen.com/files/misc/scarselli2009graph.pdf
 
-&star; Must-read ,a href="https://github.com/thunlp/GNNPapers">papers</a> on GNN
+&star; Must-read <a href="https://github.com/thunlp/GNNPapers">papers</a> on GNN
 
 &star; A Gentle Introduction to <a href="https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3">Graph Neural Networks</a> (Basics, DeepWalk, and GraphSage); by Steeve Huang
 
