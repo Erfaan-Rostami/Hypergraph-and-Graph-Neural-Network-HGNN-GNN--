@@ -17,7 +17,7 @@ Many underlying relationships among data in several areas of science and enginee
 ## Useful Links for GNN and HGNN:
 &star; Deep Learning on Graphs(<a href="https://cloud4scieng.org/2020/08/28/deep-learning-on-graphs-a-tutorial/">a Tutorial</a>)
 
-&star; https://persagen.com/files/misc/scarselli2009graph.pdf
+&star; <a href="https://persagen.com/files/misc/scarselli2009graph.pdf">The graph neural network model</a>
 
 &star; Must-read <a href="https://github.com/thunlp/GNNPapers">papers</a> on GNN
 
