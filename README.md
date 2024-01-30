@@ -13,7 +13,7 @@ Many underlying relationships among data in several areas of science and enginee
 - paper: <a href="https://arxiv.org/pdf/1910.04499.pdf">An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual Information</a>
 - paper: <a href="https://arxiv.org/pdf/1809.09401.pdf">Hypergraph Neural Networks</a>
 - paper: <a href="https://arxiv.org/pdf/1901.08150.pdf">Hypergraph Convolution and Hypergraph Attention</a>
-
+- paper:
 ## Useful Links for GNN and HGNN:
 &star; Deep Learning on Graphs (<a href="https://cloud4scieng.org/2020/08/28/deep-learning-on-graphs-a-tutorial/">a Tutorial</a>)
 
